@@ -39,6 +39,7 @@ import (
 	_ "www.velocidex.com/golang/velociraptor/vql/parsers/ese"
 	_ "www.velocidex.com/golang/velociraptor/vql/parsers/event_logs"
 	_ "www.velocidex.com/golang/velociraptor/vql/parsers/journald"
+	_ "www.velocidex.com/golang/velociraptor/vql/parsers/pcap"
 	_ "www.velocidex.com/golang/velociraptor/vql/parsers/sql"
 	_ "www.velocidex.com/golang/velociraptor/vql/parsers/syslog"
 	_ "www.velocidex.com/golang/velociraptor/vql/parsers/unified_logs"
